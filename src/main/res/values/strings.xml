@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimaRiesgoSur</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="prima_riesgos">Prima de Riesgos</string>
+    <string name="action_settings">Settings</string>
+</resources>
